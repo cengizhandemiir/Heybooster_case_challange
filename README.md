@@ -1,4 +1,4 @@
-# Heybooster-my-case
+# Heybooster_case_challange
  Hava Durumu Uygulaması
 
 Bu Flask uygulaması, kullanıcının hava durumu bilgilerini arama ve görüntüleme imkanı sunar. Kullanıcı, web formu aracılığıyla bir şehir adı girer ve uygulama bu şehir için hava durumu tahminlerini sağlar.
